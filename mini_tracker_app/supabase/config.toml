@@ -1,0 +1,8 @@
+# Supabase local config (used by CLI for deploy/link)
+project_id = "tukldvmbayuqmashmykg"
+
+[api]
+enabled = true
+
+[functions.item-summary]
+verify_jwt = true
